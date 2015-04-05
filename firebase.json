@@ -1,0 +1,9 @@
+{
+  "firebase": "eventapplahacks",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
